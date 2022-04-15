@@ -8,18 +8,21 @@
 Replace anything surrounded by the `< >` symbols._
 
 ## SUMMARY:
- < Provide a short description of your program's functionality. No more than a couple sentences. >
+Created the StringUtyility file. Each of the functions written in the file have a specific role in which they are teested by the main.py file. 
 
 ## GRACE DAYS
-Grace days used for this assignment: < # >
+Grace days used for this assignment: 2
 
-Grace days remaining: < # >/5
+Grace days remaining: 1/5
 
 ## KNOWN BUGS AND INCOMPLETE PARTS:
- < What parts of the project you were not able to complete >
+ None
 
 ## REFERENCES:
- < List any outside resources used >
+ https://www.journaldev.com/15186/python-variable
+ https://www.asciitable.com/
+ 
+ 
 
 ## MISCELLANEOUS COMMENTS:
- < Anything you would like the grader to know >
+ I believe that i have one grace day left since i handed in the functions lab 2 days late i may be wrong so if you could let me know that'd be great. Thanks!
